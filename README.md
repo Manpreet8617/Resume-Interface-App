@@ -45,18 +45,3 @@ All templates will follow this folder structure
 Fill in Your Resume Data
 -------
 You can find all the data you need to change under [/src/resume](/src/resume) directory.
-
-Motivation Behind This Project
--------
-Designing a resume is a tedious task specially for someone who doesn't have experience with design tools like Photoshop or Illustrator. Most people end up having to use one of the online resume builders which are great but sometimes they dont provide the flexiblity you are looking for.
-
-In [ResumeInDesign](https://www.resumeindesign.com) we want to change that, that's why we built [resumeindesign.com](https://www.resumeindesign.com) ofcourse but also this tool to let frontenders design their own resume with the tools they love and use daily.
-
-Vision
--------
-This is an open source project and will always be, we will keep adding more and more resume template designs as we go. This project will be maintained by [ResumeInDesign](https://www.resumeindesign.com) team but we welcome any contribution.
-
-License
-------
-This project is licensed under the MIT license, Copyright (c) 2018 [ResumeInDesign](https://www.resumeindesign.com). For more information see [LICENSE.md](/LICENSE.md).
-
